@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">VoceFuma</string>
+    <string name="txt_nome">Você Fuma?</string>
+    <string name="txt_desc">
+        <b><font color="#000000">Descrição:</font></b>\n
+        Aplicativo que estima o tempo de vida potencialmente perdido pelo tabagismo com base
+        na quantidade de cigarros fumados por dia e no tempo de hábito.\n\n
+        <b>Como funciona</b>\n
+        • Informe quantos cigarros você fuma por dia.\n
+        • Diga há quantos anos você fuma.\n
+        • O app utiliza uma média de perda de <i>~10 minutos</i> por cigarro para estimar o impacto total.\n\n
+        <b>Por que isso importa</b>\n
+        • Visualize o efeito cumulativo ao longo dos anos.\n
+        • Veja o resultado convertido em dias, semanas e meses.\n
+        • Receba sugestões para reduzir ou parar, se desejar.\n\n
+        <b>Avisos</b>\n
+        • A estimativa é educativa e não substitui avaliação médica.\n
+        • Os valores variam conforme o perfil individual.
+    </string>
+</resources>
